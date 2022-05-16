@@ -73,8 +73,8 @@ Datos adicionales
 La OID SNMP sugerida para consultar los datos del cablemodem es:
 Name: sysDescr
 OID: 1.3.6.1.2.1.1.1
-IP de cablemodem de prueba: 186.19.62.63
-snmpget -v2c -c private 186.19.62.63 1.3.6.1.2.1.1.1.0
+IP de cablemodem de prueba: X.X.X.X
+snmpget -v2c -c private X.X.X.X 1.3.6.1.2.1.1.1.0
 iso.3.6.1.2.1.1.1.0 = STRING: "FAST3890V2 Wireless Voice Gateway <<HW_REV: V1.0; VENDOR: SAGEMCOM; BOOTR: 2.7.0alpha4;
 SW_REV: FAST3890V2_SSC_US_50.7.6.T1; MODEL: FAST3890V2>>"
 
